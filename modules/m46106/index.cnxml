@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Norm referenced tests</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46106</md:content-id>
+  <md:title>Norm referenced tests</md:title>
+  <md:abstract>Understanding what a norm referenced test is and what is important to know about the norms.</md:abstract>
+  <md:uuid>9a0d03b0-84a4-4219-bd33-8d73ad722d03</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><title>Introduction</title><!-- Insert module text here -->
+  
+Norm referenced tests enable the comparison of a test result with a wider sample of students, generally at the same year level.  This wider sample is typically drawn from collecting data from a representative sample of the population.  
+
+Two important ideas about norms are:
+
+   <newline count="2"/>
+      1.  The norm reference data is only ever going to be as good as the sample it has been drawn from.
+      <newline count="1"/>
+      2.  Norm reference data is specific to one point in time, and knowledge of what point in time the normed data represents is critical when analysing data.</para><para id="eip-317"><title>1.  The sample</title>The selection process for a sample is important in that once this data is collected, one hopes to be able to make reliable inferences about the larger population from which the sample has been drawn.
+
+In the development of tests for schools, it would be common to find a representative sample that draws upon the following for each year level:
+   <newline count="2"/>
+      1.  A representative sample of schools in each of the decile rankings (1-10, or Low, Middle, High)
+      <newline count="1"/>
+      2.  A representative number of students from the different groups of decile ranked schools.
+      <newline count="1"/>
+      3.  A representative balance of gender
+  <newline count="1"/>
+4.  A representative sample of students from each of the main school size groups, for example:  small schools, medium schools, large schools.
+  <newline count="2"/>
+The size of the sample is also an important factor, and will range depending on the actual size of the population with which you are aiming to represent.  The following site provides a high explanation of how you can go about calculating this kind of information, http://en.wikipedia.org/wiki/Sample_size.
+</para><para id="eip-639"><title>2.  A point in time</title>Once the sample group is selected, the students will all be tested within the same time frame so that a set of norm reference data can be established.  What is important here is to acknowledge that students continue to increase their knowledge and skills over time and so when one is wanting to compare a test result against the set of norm reference data, they are going to get the most accurate comparison when the point in time of the test is as closely matched to the point in time of the national norming study.
+   <newline count="2"/>
+A common scenario for the development of school tests would be to produce one set of norms per year level.  This norm reference data is often collected at the beginning of the year and for this reason, the normed data is a very good reference point when analysing test data from tests completed at the start of the year, a point in time that matches the norm reference data.  When tests are undertaken at the end of the year, we have to be very careful to decide which reference data should be used that will best represent the expected level of academic achievement at the end of the year.  Given a whole year of teaching and learning has occurred over the year, the start of year reference data is no longer the best set of data as it is based on student abilities from the start of the year.  It is more accurate to be looking at the year above reference data as this point in time (start of the following year) is much closer to the students current level of ability, particularly given the Christmas holidays and less expected growth over these months without the regular teaching and learning programs occurring over a holiday period.</para></content>
+
+</document>

@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Scale scores</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46107</md:content-id>
+  <md:title>Scale scores</md:title>
+  <md:abstract>A description of scale scores</md:abstract>
+  <md:uuid>c4eda650-a8f9-4714-bd98-67abe0cdc30d</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-902"><title>Introduction</title>A scaled score is the conversion of a student's raw score onto a common scale that allows for comparison between students and between different test scores from the same student.  For this reason, the scale score is an excellent measure when looking at a students' progress over time.  You are able to measure change from semester-to-semester, term-to-term, year-to-year of individual students or groups of students in a content area.
+
+A scale score provides a way to measure different tests that are targeted to students in different year levels and different levels of ability onto the same scale.
+
+There are two big picture ideas to understand about scale scores, these being:
+   <newline count="2"/>
+      1.  A students scale score result can be placed onto the scale
+      <newline count="1"/>
+      2.  The difficulty level of individual test items can be placed onto the same scale
+</para><para id="eip-500"><title>1.  Placing a student onto a scale</title>Because one scale is used for a test, for example a test in Mathematics.  A students' raw score can be converted and placed onto the scale regardless of what year level the student is.  So this means for example a year 3 student could complete a Maths test and have their score converted onto the Maths scale that has been created for this test.  A year 10 student for example could complete a different Maths test, that has been calibrated onto the same Maths scale and then their result could also be converted from a raw score and placed onto the same scale.  The likely scenario here, is that the year 3 student will be placed lower down on the scale where the mathematical demands on the student require less knowledge and skill and the year 10 student will be placed higher up on the scale where the demands of mathematical knowledge and skills are much higher.
+
+Unlike a stanine result that is based on norm referenced data from one point in time, the scale score result is just a scale score and can be placed onto a scale at any time of the year.  For this reason, it is much easier to see where a student is at any time of the year and how they are progressing from a lower level of knowledge and skills up to a great level of knowledge and skills as described by the scale that has been created for the test.</para><para id="eip-99"><title>2.  Placing items onto a scale</title>During the trial process of developing a test, the test developers are able to identify the difficulty of each item and place this on the same scale.  The scale score of an item is a measure of the extent of knowledge and skills required from a student to be 
+successful on the item. A difficult item has a high scale score because it requires more sophisticated skills and richer knowledge to be answered correctly than items lower on the scale.
+
+Different tests can be created that draw upon an easier set of questions, this test would then be well suited for students in the lower year levels.  Likewise, a difficult test will draw upon a range of more difficult questions that are higher up on the scale.
+
+Having information from a test that provides not only a students score but also information about the type of knowledge and skills a student is able to complete brings a whole level of analysis that is not possible just from raw scores in themselves.  
+
+This method of placing questions onto a scale comes from the Item Response Theory (IRT) http://en.wikipedia.org/wiki/Item_response_theory.  A range of mathematical models can be used with this theory, the logistic and normal IRT models and the Rasch model are often used to calculate the placement of question and student scores onto the common equal interval scale for tests.</para><para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>
